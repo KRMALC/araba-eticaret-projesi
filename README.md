@@ -46,3 +46,5 @@ Durdurma: ilgili terminalde **Ctrl+C**.
 
 - `users.db` Flask ile oluşur; repoya eklenmemesi hedeflenir.
 - API anahtarını **koda yazmayın**; yalnızca `.env` kullanın.
+
+- ![Proje Ön İzlemesi](Ekran görüntüsü-1.png)
